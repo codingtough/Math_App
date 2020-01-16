@@ -1,6 +1,6 @@
 # Application Mathématique Basic
 
-#1. Pour la réalisation de cette application nous avons utilisé les languages HTML, CSS, et JAVASCRIPT.
+#1. Pour la réalisation de cette application les languages HTML, CSS, et JAVASCRIPT ont été utilisés.
 
 #2. Le but derrière cet exercice est de pratiquer le JAVASCRIPT.
 
